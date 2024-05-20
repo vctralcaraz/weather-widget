@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 30%;
+    margin: 10svh auto;
+    height: 20svh;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+}
